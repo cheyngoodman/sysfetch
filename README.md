@@ -1,5 +1,5 @@
 <div align="center">
-<h1>fetch.sh</h1>
+<h1>fetch.sh gamma</h1>
 <img src="https://github.com/wick3dr0se/fetch.sh/blob/alpha/screen.png"></img>
 </div>
 
